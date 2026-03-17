@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "task.h": "c",
+        "freertos.h": "c",
+        "app_main.h": "c",
+        "int_w5500.h": "c",
+        "gpio.h": "c",
+        "w5500.h": "c",
+        "int_mqtt.h": "c",
+        "int_modbus.h": "c",
+        "usart.h": "c",
+        "mbcrc.h": "c",
+        "app_consoletomotor.h": "c",
+        "mqttclient.h": "c",
+        "app_consoletogateway.h": "c",
+        "wizchip_conf.h": "c",
+        "app_gatewaytoconsole.h": "c",
+        "semphr.h": "c"
+    }
+}

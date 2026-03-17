@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "int_epprom.h": "c",
+        "stdlib.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "app_motor_display.h": "c",
+        "int_oled.h": "c",
+        "app_motor_value.h": "c",
+        "app_display.h": "c",
+        "app_modbusid.h": "c",
+        "tim.h": "c",
+        "app_encoder.h": "c",
+        "app_motor_pid.h": "c",
+        "port.h": "c",
+        "mbconfig.h": "c",
+        "mbfunc.h": "c",
+        "app_modbus.h": "c"
+    }
+}

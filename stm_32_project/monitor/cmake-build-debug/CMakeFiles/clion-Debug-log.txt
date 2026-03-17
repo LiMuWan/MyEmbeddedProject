@@ -1,0 +1,1 @@
+在 E:\workspace\EmbeddedProject\stm_32_project\monitor 中找不到 CMakeLists.txt 选择 CMakeLists.txt
